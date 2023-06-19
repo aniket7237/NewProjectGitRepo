@@ -11,10 +11,10 @@ public class A {
 	}
 
 public void m1() {
-	System.out.println("class A m1");
+	System.out.println("class A with m1");
 }
 
 public void m2() {
-	System.out.println("Class A m2");
+	System.out.println("Class A with m2");
 }
 }

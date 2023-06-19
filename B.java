@@ -14,10 +14,10 @@ public class B extends A{
 //	 System.out.println();
 //	}
 	public void m2() {
-		System.out.println("Class B m2");
+		System.out.println("Class B with m2");
 	}
 	public void m1() {
-		System.out.println("class B m1");
+		System.out.println("class B with m1");
 	}
 	
 	public static void main(String[] args) {
